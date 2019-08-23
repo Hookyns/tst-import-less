@@ -1,0 +1,29 @@
+{
+  "name": "tst-import-less",
+  "version": "1.0.0",
+  "description": "TypeScript transformer rewriting .less imports to .css imports",
+  "main": "tst-import-less.js",
+  "files": [
+    "./tst-import-less.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "TypeScript",
+    "TS",
+    "transformer",
+    "import",
+    "less",
+    "css"
+  ],
+  "author": "Roman Jámbor",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Hookyns/tst-import-less.git"
+  },
+  "dependencies": {
+    "typescript": "^3.5.3"
+  }
+}
