@@ -4,7 +4,7 @@ Eg.  `import "./someStyleFile.less"` to `import "./someStyleFile.css"`
 
 This transformer is compatible with [ttypescript](https://github.com/cevek/ttypescript).
 Add transformer to tsconfig.json
-```json
+```json5
 {
   "compilerOptions": {
     // ...
